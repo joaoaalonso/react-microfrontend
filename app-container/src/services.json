@@ -1,0 +1,12 @@
+[
+    {
+        "name": "service-1",
+        "host": "http://localhost:4002",
+        "path": "/service1"
+    },
+    {
+        "name": "service-2",
+        "host": "http://localhost:4003",
+        "path": "/service2"
+    }
+]
